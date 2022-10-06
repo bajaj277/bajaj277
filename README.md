@@ -41,14 +41,14 @@ I am a _software engineer_ passionate about _solving problems_ using \*technolog
 <a href="mailto:meetgovindbajaj@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 </div>
-
+<!--
 <table>
   <tr>
 
 <td><img src="https://github-readme-stats.vercel.app/api?username=bajaj277&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Govind Bajaj" />
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bajaj277&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Govind Bajaj" /></td>
   </tr>
-</table>
+</table>-->
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bajaj277&theme=dark" alt="Govind Bajaj" /></p>
